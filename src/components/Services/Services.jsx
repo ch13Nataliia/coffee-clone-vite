@@ -18,7 +18,7 @@ const servicesData = [
   },
   {
     id: 3,
-    image: Coffee1,
+    image: Coffee3,
     title: "Cold Coffee",
     subtitle: "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
