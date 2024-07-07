@@ -34,8 +34,7 @@ const WhereToBuy = () => {
             <input
               type="text"
               placeholder="Name"
-              className="w-full lg:w-[150px] px-4 py-2 border-[1px] border-gray-400 rounded-md"
-            />
+              className="w-full lg:w-[150px] sm:w-[80px] border-[1px] border-gray-400 rounded-md px-4 py-2" />
             <input
               type="email"
               placeholder="Email"
@@ -58,7 +57,7 @@ const WhereToBuy = () => {
             <input
               type="text"
               placeholder="Postcode"
-              className=" lg:w-[150px] px-4 py-2 border-[1px] border-gray-400 rounded-md"
+              className=" lg:w-[150px] sm:w-[90px] px-4 py-2 border-[1px] border-gray-400 rounded-md"
             />
           </motion.div>
 
